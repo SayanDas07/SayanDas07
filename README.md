@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sayan Das</h1>
-<h3 align="center">MERN stack Developer and stared learning ML.</h3>
+<h3 align="center">MERN stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandas07&label=Profile%20views&color=0e75b6&style=flat" alt="sayandas07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayandas07" alt="sayandas07" /></a> </p>
 
-- 🌱 I’m currently learning **ML, DL, NLP**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **WEB DEV, C++ , DSA, python**
 
-- 📫 How to reach me **sayandasraja56@gmail.com**
+- 📫 How to reach me **sayandasraja0778@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
