@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayandas07" alt="sayandas07" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and AI.**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
 - 💬 Ask me about **Mern stack, Nextjs, C++, DSA, Pyhton**
 
