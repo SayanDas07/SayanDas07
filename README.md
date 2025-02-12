@@ -11,6 +11,13 @@
 
 - 📫 How to reach me **sayandasraja0778@gmail.com**
 
+- <h3 align="left">My Leetcode Profile :</h3>
+<p align="left">
+  
+<a href="https://leetcode.com/u/Sayan_Das07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/trisen/" height="30" width="40" /></a>
+
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayandas07&show_icons=true&locale=en&layout=compact" alt="sayandas07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayandas07&" alt="sayandas07" /></p>
